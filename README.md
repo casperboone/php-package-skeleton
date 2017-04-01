@@ -6,7 +6,7 @@
 [![Build Status](https://img.shields.io/travis/casperboone/:package_name/master.svg?style=flat-square)](https://travis-ci.org/casperboone/:package_name)
 [![SensioLabsInsight](https://img.shields.io/sensiolabs/i/xxxxxxxxx.svg?style=flat-square)](https://insight.sensiolabs.com/projects/xxxxxxxxx)
 [![Quality Score](https://img.shields.io/scrutinizer/g/casperboone/:package_name.svg?style=flat-square)](https://scrutinizer-ci.com/g/casperboone/:package_name)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/casperboone/:package_name/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/casperboone/pushover/?branch=master)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/casperboone/:package_name/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/casperboone/:package_name/?branch=master)
 
 **Note:** This is a customized version of [spatie/skeleton-php](https://github.com/spatie/skeleton-php), meant for personal use. 
 Replace ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
